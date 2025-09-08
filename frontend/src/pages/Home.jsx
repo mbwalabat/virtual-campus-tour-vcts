@@ -73,7 +73,7 @@ const Home = () => {
   return (
     <div className="min-h-screen">
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-br from-green-600 via-green-700 to-green-800 text-white py-20">
+      <section className="relative bg-gradient-to-br from-green-600 via-green-700 to-green-800 text-white py-20 w-full">
         <div className="absolute inset-0 bg-black opacity-20"></div>
         <div className="container relative">
           <div className="grid grid-cols-1 lg:grid-cols-2 gap-12 items-center">
